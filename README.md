@@ -1,2 +1,2 @@
 # JavaScript-Projects
-This repo contains many js projects i build while learning JavaScript
+This repo contains many js projects i built while learning JavaScript
